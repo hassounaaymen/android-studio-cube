@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="roll">Roll</string>
+    <string name="hello_first_fragment" />
+    <string name="next" />
+    <string name="previous" />
+    <string name="action_settings" />
+    <string name="first_fragment_label" />
+    <string name="second_fragment_label" />
+</resources>
